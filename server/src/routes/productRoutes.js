@@ -1,0 +1,21 @@
+const express = require('express');
+const router = express.Router();
+const { 
+  getProducts, 
+  getProductById, 
+  createProduct, 
+  updateProduct, 
+  deleteProduct 
+} = require('../controllers/ProductController');
+const { protect, admin } = require('../middlewares/authMiddleware');
+
+// Rotas Públicas
+router.get('/', getProducts);
+router.get('/:id', getProductById);
+
+// Rotas Privadas (Apenas Admin)
+router.post('/', protect, admin, createProduct);
+router.put('/:id', protect, admin, updateProduct);
+router.delete('/:id', protect, admin, deleteProduct);
+
+module.exports = router;

@@ -1,0 +1,16 @@
+# Dependências (pesadas, não enviar)
+node_modules/
+/server/node_modules/
+/client/node_modules/
+
+# Arquivos de Build
+dist/
+build/
+
+# Variáveis de Ambiente (SEGURANÇA: contém senhas)
+.env
+/server/.env
+
+# Logs e Arquivos do Sistema
+.DS_Store
+*.log
