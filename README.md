@@ -165,13 +165,3 @@ O sistema possui controle de nível de acesso. Utilize os dados abaixo para test
 
 * **Ryan Pimentel**
 * **Gabriel Ribeiro**
-
----
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT.
-
-```
-
-```
