@@ -163,34 +163,8 @@ O sistema possui controle de nível de acesso. Utilize os dados abaixo para test
 
 ## 🤝 Autores
 
-<table>
-<tr>
-<td align="center">
-<a href="#">
-<img src="https://www.google.com/search?q=https://ui-avatars.com/api/%3Fname%3DRyan%2BPimentel%26background%3D0D8ABC%26color%3Dfff" width="100px;" alt="Foto Ryan"/>
-
-
-
-
-<sub>
-<b>Ryan Pimentel</b>
-</sub>
-</a>
-</td>
-<td align="center">
-<a href="#">
-<img src="https://www.google.com/search?q=https://ui-avatars.com/api/%3Fname%3DGabriel%2BRibeiro%26background%3D0D8ABC%26color%3Dfff" width="100px;" alt="Foto Gabriel"/>
-
-
-
-
-<sub>
-<b>Gabriel Ribeiro</b>
-</sub>
-</a>
-</td>
-</tr>
-</table>
+* **Ryan Pimentel**
+* **Gabriel Ribeiro**
 
 ---
 
